@@ -1,14 +1,15 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: postkomik
+title: postkomik | blog tentang kumpulan berbagai informasi terbaru
+description: blog tentang kumpulan berbagai informasi terbaru dan berita onlien berbagai sumber.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - informasi
+  - informatika
+  - database
+  - pendidikan
+  - berita onlien
+  - baca manga
 show_hero: true
 menu:
   - title: Home
