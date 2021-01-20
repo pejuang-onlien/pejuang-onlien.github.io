@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/favicon.ico
-name: thiagorossener
+name: pejuangonlien
 display_name: Pejuang Onlien
 position: Developer
 bio: Belajar Menjadi Baik.
