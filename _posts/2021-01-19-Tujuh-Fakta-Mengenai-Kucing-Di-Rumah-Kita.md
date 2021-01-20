@@ -10,7 +10,7 @@ category: hewan
 tags:
   - kucing
   - berita onlien
-author: postkomik
+author: pejuangonlien
 paginate: true
 --- 
 
