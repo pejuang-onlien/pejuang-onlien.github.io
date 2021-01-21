@@ -7,13 +7,12 @@ permalink: /about/
 description: Some description.
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/favicon.ico" alt="Pejuang Onlien" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ Terimakasih sudah mau berkounjung di blog yang masih kecil dan juga jangan lupa untuk follow ya agar tidak ketinggalan informasi updatenya
+
+Pejuang Onlien adalah Blog informasi dunia maya yang mudah mudahan memberikan manfaat buat kalian semua dan jangan lupa untuk meninggalkan komentar saat komentar di buka yah 
+
+mengenai blog ini awal nya sih hanya iseng dan hobi untuk latihan menulis karna semakin maju nya duni digital kita ga bisa ketinggalan gitu aja apalagi dalam duani seni menulis nah adanya fasilitas internet memberikan kreafitas blog maka ane manfaatkan untuk menyalurkan hobi dan bakat walau masih malas malasan untuk mengapresiaknnya
