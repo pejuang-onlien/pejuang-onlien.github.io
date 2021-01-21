@@ -103,4 +103,3 @@ Kehadiran aplikasi kencan online, bisa menjadi penyelamat kaum jomblo yang mungk
 
 Layaknya aplikasi dating lainnya, OkCupid juga memiliki filter matching yang bisa digunakan untuk memfilter siapa saja yang bisa berkenalan maupun siapa saja yang diterima sebagai teman.
 
-Rekomendasi di baca
