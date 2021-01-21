@@ -6,7 +6,7 @@ subtitle: 5 Alasan kucing tiba-tiba sering mengeong dengan keras, kenali maksudn
 description: 5 Alasan kucing tiba-tiba sering mengeong dengan keras, kenali maksudnya.
 image: https://1.bp.blogspot.com/-Sa9ArdgaUK8/X_APU1Qm_bI/AAAAAAAAOMA/MLROrBEk7vsxlFrLfgL97ryVs-A9LKcFQCLcBGAsYHQ/w320-h195/kucing.jpg
 optimized_image: https://1.bp.blogspot.com/-Sa9ArdgaUK8/X_APU1Qm_bI/AAAAAAAAOMA/MLROrBEk7vsxlFrLfgL97ryVs-A9LKcFQCLcBGAsYHQ/w320-h195/kucing.jpg
-category: hewan
+category: Cat Lover
 tags:
   - kucing
   - berita onlien

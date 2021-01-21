@@ -6,7 +6,7 @@ subtitle: Tujuh Fakta Mengenai Kucing Di Rumah Kita.
 description: Banyak dari kita yang menyukai kucing, dan mungkin banyak juga di antara pembaca yang memelihara kucing di rumah. Satwa lucu ini sudah menjadi hewan peliharaan kesayangan manusia sejak 7500 sebelum.
 image: https://1.bp.blogspot.com/-Sa9ArdgaUK8/X_APU1Qm_bI/AAAAAAAAOMA/MLROrBEk7vsxlFrLfgL97ryVs-A9LKcFQCLcBGAsYHQ/w320-h195/kucing.jpg
 optimized_image: https://1.bp.blogspot.com/-Sa9ArdgaUK8/X_APU1Qm_bI/AAAAAAAAOMA/MLROrBEk7vsxlFrLfgL97ryVs-A9LKcFQCLcBGAsYHQ/w320-h195/kucing.jpg
-category: hewan
+category: Cat Lover
 tags:
   - kucing
   - berita onlien
