@@ -16,10 +16,21 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
+  - title: Contact Us
+    url: /contact us
+  
+  - title: Privacy Policy
+    url: /privacy policy
+    
+  - title: Disclaimer
+    url: /disclaimer
+    
+  - title: Terms and Conditions
+    url: /terms and conditions 
+    
   - title: Feed
     url: /feed.xml
+    
 email: Ahmadalwy@gmail.com
 disqus_username: postkomik-github-1
 
