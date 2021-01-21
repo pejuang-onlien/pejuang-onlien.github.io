@@ -13,4 +13,10 @@
     onclick="window.open(this.href, 'whatsap-share','width=580,height=296');return false;" title="{{ site.translations.button.share_on_whatsap | default: 'Share on Whatsapp' }}">
         <svg class="icon icon-whatsap"><use xlink:href="#icon-whatsap"></use></svg>
     </a>
+    
+    <a aria-label="{{ site.translations.button.share_on_pinterst | default: 'Share on Pinterst' }}" href="https://pinterest.com/pin/create/button/?url=&quot;{{ site.url }}{{ page.url }}"
+    onclick="window.open(this.href, 'pinterst-share','width=580,height=296');return false;" title="{{ site.translations.button.share_on_pinterst | default: 'Share on Pinterst' }}">
+        <svg class="icon icon-pinterst"><use xlink:href="#icon-pinterst"></use></svg>
+    </a>
+    
 </section>
