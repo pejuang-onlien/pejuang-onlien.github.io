@@ -2,5 +2,5 @@
 layout: category
 title: Puisi
 slug: puisi
-description: A category for general blog posts.
+description: A category for general puisi posts.
 ---
