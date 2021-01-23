@@ -1,18 +1,20 @@
 ---
-date: 2020-07-20 12:26:40
+date: {}
 layout: post
 title: Hal yang diinginkan wanita saat kencan pertama
 subtitle: hal yang diinginkan wanita saat kencan pertama.
 description: hal yang diinginkan wanita saat kencan pertama.
-image: https://1.bp.blogspot.com/-aiQFShKOKhg/YAU6erY4e1I/AAAAAAAAOQ8/XBOJPAbLiFg2y3ZQ-cPjpMdyXs1FbtyugCLcBGAsYHQ/s150/hal-yang-diinginkan-wanita-saat-kencan-pertama.jpg
-optimized_image: https://1.bp.blogspot.com/-aiQFShKOKhg/YAU6erY4e1I/AAAAAAAAOQ8/XBOJPAbLiFg2y3ZQ-cPjpMdyXs1FbtyugCLcBGAsYHQ/s150/hal-yang-diinginkan-wanita-saat-kencan-pertama.jpg
+image: >-
+  https://1.bp.blogspot.com/-aiQFShKOKhg/YAU6erY4e1I/AAAAAAAAOQ8/XBOJPAbLiFg2y3ZQ-cPjpMdyXs1FbtyugCLcBGAsYHQ/s150/hal-yang-diinginkan-wanita-saat-kencan-pertama.jpg
+optimized_image: >-
+  https://1.bp.blogspot.com/-aiQFShKOKhg/YAU6erY4e1I/AAAAAAAAOQ8/XBOJPAbLiFg2y3ZQ-cPjpMdyXs1FbtyugCLcBGAsYHQ/s150/hal-yang-diinginkan-wanita-saat-kencan-pertama.jpg
 category: Asmara
 tags:
   - Kencan
   - Asmara
-  
 author: pejuangonlien
 paginate: true
+published: true
 ---
 
 Hal yang diinginkan wanita saat kencan pertama
@@ -102,4 +104,4 @@ Kamu bisa menambahkan teman sebanyak mungkin, mencari teman terdekat dan melihat
 Kehadiran aplikasi kencan online, bisa menjadi penyelamat kaum jomblo yang mungkin sulit mencari pasangan.
 
 Layaknya aplikasi dating lainnya, OkCupid juga memiliki filter matching yang bisa digunakan untuk memfilter siapa saja yang bisa berkenalan maupun siapa saja yang diterima sebagai teman.
-
+Sekian
