@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: pejuang-onlien/pejuang-onlien.github.io
   branch: master
 publish_mode: editorial_workflow
